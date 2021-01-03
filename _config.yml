@@ -6,7 +6,7 @@ collections:
     permalink: '/posts/:title/'
 description: Medium inspired blogging theme for Stackbit
 layout_style: list
-palette: green
+palette: blue
 header:
   title: Ampersand
   logo_img: images/logo.png
